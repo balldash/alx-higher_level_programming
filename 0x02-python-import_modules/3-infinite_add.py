@@ -10,4 +10,4 @@ if __name__ == "__main__":
         result = []
         for i in range(1, arg_num + 1):
             result.append(int(argv[i]))
-            print("{}".format(sum(result)))
+        print("{}".format(sum(result)))
